@@ -1,4 +1,4 @@
-"""This is the main program to demonstarte a user defined packages in python
+"""This is the main program to demonstarte user defined packages in python
     Use __init__.py file inside every folder you want to create in order to
         understande it as a package
 
