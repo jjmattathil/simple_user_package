@@ -1,9 +1,9 @@
-"""This is the main program to demonstarte user defined packages in python
-    Use __init__.py file inside every folder you want to create in order to
+"""This is the main program to demonstarte how user defined packages are defined inside python
+    Use __init__.py file under every folder that you want to create in order to
         understande it as a package
 
 
-    This how scripts lie inside this example package
+    This is how scripts lie inside this example package
 
     --main_script_package.py
       main_package folder
